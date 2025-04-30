@@ -1,17 +1,21 @@
-### Hey, I'm Dele Tosh 👋🏿
+# Hello, I'm Dele Tosh 👋
 
-🚀 Founder @ Protomated - Helping businesses validate & build digital products that markets actually want
+I'm building Protomated, a specialized technology firm that solves the "last mile" problem in AI adoption for professional services, starting with the legal vertical.
 
-🎯 What I Do:
-- Market validation for digital products
-- MVP development & scaling
-- Digital transformation consulting
-- Product strategy & growth automation
+## What I'm Working On
 
-💡 Currently: Building frameworks to help non-technical founders validate ideas before investing heavily in development
+Our LegalContext product creates a secure bridge between legal knowledge repositories and AI tools through the Model Context Protocol (MCP). Think of it as the "USB-C port for AI applications" in the legal world.
 
-🔭 Mission: Reducing product failure rates through market-first validation
+### Core Focus:
+- 🔐 Security-first AI integration for legal practice management systems
+- 🔄 Open source MCP server implementation
+- 🛠️ Pre-built connectors for Clio, MyCase, and other legal DMS
+- 🛡️ Local-first processing that keeps sensitive data within your security perimeter
 
-🌱 Always learning, always validating, always building what matters.
+### Philosophy:
+I believe the most advanced technology should be the easiest to use. We're not creating new AI tools; we're making existing data and AI work better together through secure, standardized protocols.
 
-📫 Let's connect: https://linkedin.com/in/deletosh
+## Connect With Me
+If you're a developer interested in secure AI integration or a legal professional looking to safely implement AI in your practice, I'd love to connect!
+
+📋 Check out our "5-Minute AI Security Checklist for Law Firms": [viz.li/5m-AI](https://viz.li/5m-AI)
