@@ -8,7 +8,7 @@ Our LegalContext product creates a secure bridge between legal knowledge reposit
 
 ### Core Focus:
 - 🔐 Security-first AI integration for legal practice management systems
-- 🔄 Open source MCP server implementation
+- 🔄 Open source Local & Privacy-first AI tools implementation
 - 🛠️ Pre-built connectors for Clio, MyCase, and other legal DMS
 - 🛡️ Local-first processing that keeps sensitive data within your security perimeter
 
